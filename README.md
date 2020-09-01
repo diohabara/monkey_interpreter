@@ -2,6 +2,6 @@
 
 ## Activate REPL
 
-```sh
-go run main.go
+```shell
+$ go run main.go
 ```
